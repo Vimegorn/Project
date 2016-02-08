@@ -5954,10 +5954,12 @@ small {
   border: none;
   border-radius: 2px;
   display: inline-block;
+  width: 100%;
   height: 36px;
   line-height: 36px;
   outline: 0;
   padding: 0 2rem;
+  font-size: x-small;
   text-transform: uppercase;
   vertical-align: middle;
   -webkit-tap-highlight-color: transparent; }
