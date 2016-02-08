@@ -4,8 +4,6 @@ $ cat .gitignore
 #*.a
 # ale uwzglêdniaj lib.a, pomimo ignorowania .a w linijce powy¿ej
 #!lib.a
-# ignoruj wszystkie pliki znajduj¹ce siê w katalogu build/
-node_modules/
-bower_components/
-# ignoruj doc/notatki.txt, ale nie doc/server/arch.txt
-doc/*.txt
+# ignoruj wszystkie pliki znajduj¹ce siê w katalogu build//
+/node_modules/
+/bower_components/
