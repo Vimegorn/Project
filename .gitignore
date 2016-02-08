@@ -5,5 +5,5 @@ $ cat .gitignore
 # ale uwzglêdniaj lib.a, pomimo ignorowania .a w linijce powy¿ej
 #!lib.a
 # ignoruj wszystkie pliki znajduj¹ce siê w katalogu build//
-/node_modules/
-/bower_components/
+node_modules/
+bower_components/
