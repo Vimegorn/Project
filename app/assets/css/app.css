@@ -1,1 +1,5 @@
-﻿
+nav ul.hide-on-med-and-down li {
+  /*display: inline-block;*/
+  width: calc((100% - 15px)/5);
+  /*float: none;*/
+};
