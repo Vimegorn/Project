@@ -5954,7 +5954,7 @@ small {
   border: none;
   border-radius: 2px;
   display: inline-block;
-  width: 100%;
+  width: auto;
   height: 36px;
   line-height: 36px;
   outline: 0;
